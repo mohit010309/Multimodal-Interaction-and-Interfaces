@@ -1,0 +1,67 @@
+Human Multimodal perception :
+
+Human generally rely in multimodal input. We require multiple modalities. 
+
+Difficult to find information from noisy image, if we know what we are looking for, it becomes easy for us to find that thing. 
+
+Topics :
+
+1) Processing multiple signals
+2) Multimodal dual task
+3) Effects of discongruency in multimodal signals
+4) relevance to human-computer interaction
+
+
+
+
+"Human perception is designed for dealing with multimodal I/P signals" - this statement needs to be explained with the help of a figure :-
+
+This figure is example of human neural activity as response to animal stimuli.
+
+Only visual provides "no neural spikes". 
+
+Auditory only - few neural spikes with auditory weak signals. 
+
+Audio + video = neural spikes in weak signal is very much more. 
+
+Human perception is much more "higher/better" in case of multimodal input than in the individual modality.
+
+
+
+
+Super additivity = property for multimodal systems. Multimodal input stimulates the human stronger than the sum of the single individual inputs. 
+
+
+
+
+Using multimodal system, Output will improve (Jacko et al., 2005). 
+
+Advantages of multimodal system :
+
+		1) The reaction time will decrease for user.
+		2) Increased salience and prominence ( Ex: Degree of attention grabbed). 
+		3) Decreased workload ( as multiple modalities will be searching for region of interest ).
+		4) More robustness
+		5) More naturalness/authencity ( Ex: 2 factor authentication in mobiles).
+		6) Shorter task completion time because multiple modalities work.
+		7) Improved Usability and user experience if multiple modalities are there
+		8) May be used by certain target groups ( such as older adults, people with certain deficits, such as visaully impaired, auditory impaired). 
+		9) Can be used to design new interface paradigms.
+
+
+
+
+
+Example : Technishe Universitet, Berlin 
+Spatialaudio.net/ssr = developed a multimodal system in certain virtual environment. 3D audio synthesis system + 3D virtual environment ( with visual information), they combined audio and video to form a multimodal system. 
+
+
+
+
+"Welch et al 1986 said - Each modality is unique."
+
+Ex : 
+
+Visual system = used for detailed information ( special information ), useful for gathering complex information and special information in HCI. 
+
+Auditory system = good for general information ( temporal information ), and those information not in view. Useful for warning, grabbing attention. 

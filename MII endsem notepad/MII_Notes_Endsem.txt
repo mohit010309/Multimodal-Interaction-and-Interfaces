@@ -1,0 +1,73 @@
+Speech/Voice Modality : One of the most interaction modality.
+
+
+
+
+Speech and Hearing :
+
+According to Sebock, Speech is a subsystem of language, namely a communication using language in the acoustic channel.
+
+According to Stetson, Speech is rather a set of movements made audible than a set of sounds produced by the movements.
+
+
+
+
+Hierarchy of the linguistic channel ( Linguistic hierarchy ) : 
+
+1) Pragmatics = Deals with the meaning and intention of the user or the person uttering something. (What is the meaning the person is trying to utter ?).
+
+2) Semantics = Meaning of a single sentence or the factual information. It is the content ( factual information ). 
+
+3) Syntax = The sentence structure, laws and structure of different words and parts of a sentence. How are different words arranged to form a sentence. 
+
+4) Morphology = Word forms, Different words in which the subgroups or subentities are used for building up the words.
+
+5) Phonology = It is the sound structure, structure or rules by which sound is formed. Structure of spoken words.
+
+6) Phonetics = Important hierarchy in speech processing. Perception of what you are saying. How spoken sounds are articulated or manifested in acoustics and perceived at the human end. How the spoken words are received/perceived by us. 
+
+
+
+
+
+Components of Phonetics :
+
+1) Phoneme = is a smallest segmental unit of a sound ( this sound may be anything, may have meaning or not like it may be noise ) employed to form a meaningful contrast between utterances. Building block of a sound. ( This is just like "pixels" in image ). 
+
+Another definition of phoneme : Functional class which is restricted to a given language.
+   
+Example : Analysis between two words "fit" and "bit", "kit" and "hit". These sound almost similar but are made up of different phonemes. They are differentiated by different phonemes.
+
+
+2) Phone = Smallest segment or unit in phonetics and speech. Assigned to phonetics level not to phonological level. It is the subcategory of the phoneme. 
+
+
+3) Allophones = different phones of the same phoneme. 
+
+There are two ways to find the allophones :
+
+(i) Free variants method = Let us take example of English and German, the 'R' sound in English and German. How the person utters 'R' are different (different phones) but same phoneme. The acoustics, perception, articulation of 'R' is different for English and German. 
+
+(ii) Distributed Complementary = In german language and Greek, 'ich' and 'ah' ( in german ish and hah ), but in greek ( as ich and ah ). These two have same phoneme but uttered in different ways ( different phones ). 
+
+
+4) Morpheme = In contrast to phoneme, smallest unit actually having some meaning. Morpheme is the word stem which builds up the particular word. Morpheme is able to distinguish gender, plurals etc. 
+
+Example : Painter, paint is a thing while painter is a person who uses paint. The additional term 'er' is a small syllable which is a morpheme. 'paint' is also a morpheme. 'er' gives characteristics to the word ( which is painter is a person ). 
+
+
+5) Syllable = Not in the levels of linguistic, not in the linguistic hierarchy. This is a term in phonetics. It is a unit of articulation. An object + a person becomes a person. Syllable may be a vowel, consonant which gives the most important information in that word. Syllable helps us to identify the particular word.  
+
+Broad umbrella is a morpheme where it can contain many syllables. 
+
+
+
+
+
+SOURCE FILTER THEORY OF SPEECH OR VOICE : 
+
+The most important thing in speech processing is "source filter theory", there is a model which asssumes voiced speech production in humans consists of two elements :
+
+1) Excitation which is happening at the vocal chords. Excitation signal is produced at vocal faults. 
+
+2) Upper part of your articulatory organ ( mouth, throat, nasal cavity and so on). 
