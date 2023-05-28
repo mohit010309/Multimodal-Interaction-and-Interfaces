@@ -1,0 +1,39 @@
+Lecture - 2
+
+"Multimodal systems are subset of Multimedia systems."
+
+
+Domains of multimodal systems :
+
+1) Active I/P mode = majority of applications based on this
+2) Passive I/P mode
+3) Virtual Environment = mostly used in gaming applications
+
+
+1) Active I/P mode = user intentionally gives information to the system. Ex : Command, gesture
+Ex : A Dialog system with different input modes. 
+Ex : Unlock a phone with a happy emotion face. 
+
+Fixed Input = to give desired O/P
+
+
+2) Passive I/P mode = All kinds of information that user do not produce intentionally. No fixed pattern at input end. 
+Ex : Emotions, gazing at something
+
+Ex : Depending on emotions, a classroom can be "boring" or "interesting" , real time feedback on classroom. Depending on feedback, professor enhances its skill. This application depends on "facial expression of students".
+
+NOTE : Expressions can be provided intentionally then it cannot be passive I/P mode.
+
+
+
+3) Virtual Environment = user can behave naturally to perform a task. A person playing tennis virtually can be an example of virtual environment.
+
+" Users can use all kinds of information, behave naturally as he/she in natural environment and system would be able to analyse all this information and act accordingly. "
+
+
+
+
+NOTE : " It's not necessary one type of multimodal systems, there can be multiple multimodal systems working together or parallely " .
+
+
+

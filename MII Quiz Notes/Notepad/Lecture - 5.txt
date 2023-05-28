@@ -1,0 +1,11 @@
+Lecture - 5
+
+For hand detection = use information from face
+
+Viola Jones algorithm = different facial features from face. , Viola jones can be used to train different types of objects ( different body parts ).
+
+8 - 10 Harr line features.
+
+Challenges in face detection :
+
+Face detection using feature points.
