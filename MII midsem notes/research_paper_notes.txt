@@ -1,0 +1,47 @@
+Data glove = uses mechanical or optical sensors attached to glove. during gesture, this glove is wear by user that converts hand flexions into electrical signals and recognizes the hand posture. Data gloves consist of five flex sensors for sensibility. Examples of data glove : cyberglove, cavallo used data glove with 18 markers attached to it ( 15 for fingers, 3 for reference ).
+
+disadv = lot of cables that obstucts the ease and naturalness of user , not a natural way of input
+
+
+
+
+
+vision based approaches = uses camera for interaction between humans and computers. 
+
+vision based hand gesture recog comprises of 4 steps :
+
+1) detection
+2) tracking
+3) feature extraction
+4) recognition
+
+adv = simple and easy to use
+
+
+
+Detection of hand : This is primary step. 
+It can be done by - color, 3D model and motion. 
+
+color based detection : it uses the skin color information to detect the hand. several color spaces can be used such as RGB, yCbCv . reqd portion of hand was extracted using this color model filtered by median filter and processed by smoothening filter.
+
+disadv = background has same color as of detecting object.
+
+Background subtraction technique - first frame is considered as background. then this frame is subtracted from subsequent frames to detect the moving objects. assumption in background subtraction is camera and background are static. 
+
+CamShift algorithm = to extract the skin coloured pixels. first convert RGB image to grayscale image and pixels of hand can be extracted out easily. 
+
+
+3D model based detection = advantage is that is achieve view-independent detection. 
+
+motion based detection = motion information is combined with additional visual cues such as color cues to get desired result. 
+
+
+Tracking approaches : 
+
+Apperance based approach - we can track hand using color histogram. Used the color histogram of detected hand as mean shift input to track hand in video sequences. CAMSHIFT ( continuous adaptive mean shift ) tracks hand efficiently in simple background scene but cannot give same result if target is overlapped with various skin color objects. 
+
+Kalman filter = possible positions of hand are predicted and camshift = to search and match the target. 
+
+KLT tracker = hand tracking algorithm, tracker fails when there is change in shape of hand during gesticulation. 
+
+

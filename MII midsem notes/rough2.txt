@@ -1,0 +1,26 @@
+CASE And CARE
+
+These models are used to conceptualize the diff possible relationship between input and output modalities.
+There are two types of models which are :
+
+1) CASE = it combines modalities at system side.
+2) CARE = it combines modalities at user side.
+
+
+CASE model
+
+draw a circle, delete a square
+
+alternate = two combined tasks are done in sequential manner.
+
+fission = it finds a possible answer by deciding among various output modalities based on device and context.
+
+3 stages : selection and structuring of contents, selection of modalities and output coordination.
+
+coordination of each output is reqd. to form a coherent message.
+
+Ex : Put that there, after put check for diff versions of put and accordingly decide, after there, check for diff versions and accordingly take corrective measures.
+
+
+
+    

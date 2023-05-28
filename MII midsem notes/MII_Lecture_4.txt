@@ -1,0 +1,15 @@
+to detect skin colour from input image : 
+
+" we convert to yCbCr colour space because RGB does not provide much of information "
+
+Y = how bright your image is
+Cb = How much blue color present
+Cr = How much red color present
+
+Cb and Cr will give colour information
+
+HSV = provide information about colours
+
+can you get some information from face ? = Viola-Jones algorithm is used to detect the face, if we have information of face, then we get idea of thresholds to detect the hand. Small subimage will be taken from face ( from cheek area, nose...) 
+
+Viola-Jones = to detect face using viola-jones, take a sub-image from that detected face , we get the range of HSV and we can use that range to detect skin colour. 

@@ -1,0 +1,84 @@
+medium = technical means to transfer information from system to user.
+air/lights
+
+modality = capability of system to mimic human sensory channel. 
+visual = see
+auditory = hear
+haptic = touch
+olfactory = smell
+vestibular = balance
+gustatory = taste
+
+1st def :
+
+multimedia = mutliple media, system with more than one way to transfer information from system to user.
+
+multimodality = system that can stimulate more than one human sensory channel. 
+
+alternate def :
+
+multimodal = a system that can provide more than one user input to interact with it. 
+
+2nd modified def :
+
+multimedia = a system that provides information via several output channels. 
+
+mutlimodal = a system that can process 2 or more combined user input modes and O/P gives that many number of modes
+
+Sharon oviatt ( 2012 ) - A truly multimodal system , information we provde at input side is related and coordinated to give O/P.
+
+3rd def ( Benoid )
+
+A multimodal system represent and mainpulate the information we provide at the input side via several human communication channels. these systems automatically extracts meaning from multimodal raw data and analyse them to provide O/P.
+
+domains of multimodal systems :
+
+active i/p mode = max applications are based on this
+passive i/p mode = 
+virtial env = real life experience
+
+
+user can intentionally give i/p to system. fixed set of input at the user's end. fixed set of inputs to give the o/p. 
+
+reading, pointing hand, gesture, commands to computer directly
+
+A dialog system with more than one inputs. 
+
+all kinds of information that user do not provide intentionally. The input is provided naturally by the user. 
+
+Ex : emotions, gazing at something, lip movement
+
+unlock a phone with happy face = intentional input
+
+Ex : Boredom in class can be removed with help of passive input. Professor records video of students in class and then uses facial recognition to identify the emotions of students in class. sad/happy/disgust emotion can be used to decide :
+
+1) whether to continue class or not
+2) is class boring or interesting
+
+
+virtual env = user can behave naturally to perform a task. users can use all kinds of information and behave as if he/she is in natural env and the system will analyse all the information and behave accordingly. 
+
+passive i/p = gaze, brain wave pattern, lip movement
+
+CARE = complementarity, assignment, redundancy , equivalence
+
+put the red traingle inside the blue circle. an
+
+complementarity = all modalities will be used together at a time to provide the O/P. 1979 MIT vido "put that there", sppech+gesture at smae time to provide o/p
+
+assignment = only one modality out of different modalities will be used at a time to reach O/P.
+
+redundancy = only a part of information will be used.
+
+equivalence = system that can use different combination of input modalities ( whether sequential , parallel or assignment ) to reah o/p. 
+
+LipNet = works o+ buttion , gze+buttpn the principle of CNN ( convolutional neural networks ). It is used in autonomous vehicles. lip movement = passive, speech = active
+
+In this case, we can recognize the lip movement to read the input even if there is noise in background.
+
+temporally cascaded multimodal system = process 2 or more modalities sequenced in particular temporal order. 
+
+an example of this could be : speech + gesture
+we can use speech to say "turn on music" and then we can use hand gesture ( up movement or down movement ) to increaseor decrease volume.
+
+a cascaded multimodal user interface to reduce driver distraction ( IEEE paper ) . speech 
